@@ -98,32 +98,32 @@ def jornada_do_sucesso():
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws&theme=light" width="65" height="65" alt="AWS" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="Python" width="65" height="65" />
       <br><strong>AWS</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Light.svg" width="65" height="65" alt="AWS" />
+      <br><strong>Azure</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/user-attachments/assets/a42c0ae8-74a1-431f-a869-bd495fb61c17" alt="Zabbix" width="65" height="65" />
       <br><strong>Docker</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-      <br><strong>Kubernetes</strong>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Light.svg" alt="Grafana" width="65" height="65" />
+      <br><strong>Grafana</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br><strong>MySQL</strong>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" alt="Prometheus" width="65" height="65" />
+      <br><strong>Prometheus</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
+      <img src="https://github.com/user-attachments/assets/76d1d4a3-b3e7-4983-be95-f0e8feaf6c1a" width="65" height="65" alt="Wazuh" />
+      <br><strong>Wazuh</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65" alt="GitHub" />
-      <br><strong>GitHub</strong>
+      <img src="https://github.com/user-attachments/assets/5cf93fe7-a1b1-446e-b588-c4c9006199c1" width="65" height="65" alt="GitHub" />
+      <br><strong>Nmap</strong>
     </td>
   </tr>
   <tr>

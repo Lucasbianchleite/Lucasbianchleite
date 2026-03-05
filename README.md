@@ -107,7 +107,7 @@ def jornada_do_sucesso():
     </td>
     <td align="center" width="96">
       <img src="https://github.com/user-attachments/assets/a42c0ae8-74a1-431f-a869-bd495fb61c17" alt="Zabbix" width="65" height="65" />
-      <br><strong>Docker</strong>
+      <br><strong>Zabbix</strong>
     </td>
     <td align="center" width="96">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Light.svg" alt="Grafana" width="65" height="65" />
@@ -132,28 +132,28 @@ def jornada_do_sucesso():
       <br><strong>Terraform</strong>
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="kubernetes" />
+      <br><strong>kubernetes</strong>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux&theme=light" width="65" height="65" alt="Linux" />
       <br><strong>Linux</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash&theme=light" width="65" height="65" alt="Bash" />
-      <br><strong>Bash</strong>
+      <img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65" alt="GitHub" />
+      <br><strong>GitHub</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git&theme=light" width="65" height="65" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="65" height="65" alt="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="65" height="65" alt="Actions" />
       <br><strong>Actions</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="65" height="65" alt="VS Code" />
-      <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=golang&theme=light" width="65" height="65" alt="Golang" />
-      <br><strong>Golang</strong>
+      <img src="https://github.com/user-attachments/assets/33db56e3-21e0-46af-8661-b278c17dc277" width="65" height="65" alt="ArgoCD" />
+      <br><strong>ArgoCD</strong>
     </td>
   </tr>
 </table>
@@ -161,64 +161,34 @@ def jornada_do_sucesso():
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=bash&theme=light" alt="Bash" width="65" height="65" />
+      <br><strong>Bash</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
       <br><strong>Python</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws&theme=light" width="65" height="65" alt="AWS" />
-      <br><strong>AWS</strong>
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" alt="Nginx" width="65" height="65" />
+      <br><strong>Nginx</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-      <br><strong>Kubernetes</strong>
+      <img src="https://github.com/user-attachments/assets/80fb2572-a024-4c15-b498-3c389c62ef50" alt="Apache" width="65" height="65" />
+      <br><strong>Apache</strong>
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br><strong>MySQL</strong>
+      <br><strong>Python</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65" alt="GitHub" />
-      <br><strong>GitHub</strong>
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="65" height="65" alt="vscode" />
+      <br><strong>VsCode</strong>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=terraform&theme=light" width="65" height="65" alt="Terraform" />
-      <br><strong>Terraform</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="65" height="65" alt="Linux" />
-      <br><strong>Linux</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash&theme=light" width="65" height="65" alt="Bash" />
-      <br><strong>Bash</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git&theme=light" width="65" height="65" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="65" height="65" alt="GitHub Actions" />
-      <br><strong>Actions</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="65" height="65" alt="VS Code" />
-      <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=golang&theme=light" width="65" height="65" alt="Golang" />
-      <br><strong>Golang</strong>
-    </td>
-  </tr>
+ 
 </table>
 
 </div>
